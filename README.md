@@ -2,7 +2,7 @@
 A mobile-responsive multipage website created using Bootstrap.
 
 ### To view
-Website Link: https://safiyaj.github.io/Patient-Progress-Website/
+Website Link: https://juel07.github.io/Patient-Progress-Website/
 
 ### Tech
 * HTML
